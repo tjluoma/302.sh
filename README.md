@@ -9,10 +9,10 @@ You will need to tell the script which app you are using to sync your local .hta
 
 These can both be set by editing these lines in the `302.sh` file:
 
-	`# This could also be Dropbox or something else`
+	# This could also be Dropbox or something else
 	SYNC_APP="BitTorrent Sync"
 
-	`# this is the domain to use with the short URLs`
+	# this is the domain to use with the short URLs
 	YOUR_DOMAIN='luo.ma'
 
 ## Usage: Two Args
